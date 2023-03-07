@@ -1,0 +1,32 @@
+@media (max-width: 1024px) {
+    .m-c-hide {
+        display: none;
+    }
+    .banner__left {
+        width: 94vw;
+        margin: auto;
+        height: 31.1401vw;
+    }
+    .home__banner .webimg__size1 {
+        width: 94vw;
+        margin: auto;
+        height: 31.1401vw;
+    }
+    .banner__list-img {
+        height: 31.1401vw;
+    }
+}
+
+@media (min-width: 739px) {
+    .c-hide {
+        display: none;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 1024px) {
+}
+@media (min-width: 1025px) {
+    .l-hide {
+        display: none;
+    }
+}
